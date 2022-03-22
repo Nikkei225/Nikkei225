@@ -2,7 +2,7 @@ Hi, i'm @Nikkei225. I'm working in the financial market in the Asset Management 
 
 SQL VBA JS HTML CSS RUBY
 
-Background of Economics + LE WAGON BOOTCAMP.
+LE WAGON BOOTCAMP.
 
 
 <!---
