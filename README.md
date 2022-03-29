@@ -1,6 +1,6 @@
 Hi, i'm @Nikkei225. I'm working in the financial market in the Asset Management in Paris.
 
-SQL VBA JS HTML CSS RUBY
+SQL VBA JS HTML CSS RUBY PYTHON
 
 LE WAGON BOOTCAMP.
 
