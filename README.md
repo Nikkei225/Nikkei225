@@ -1,4 +1,4 @@
-Hi, i'm @Nikkei225. I'm working in the financial market in the Asset Management in Paris.
+Financial Market
 
 SQL VBA JS HTML CSS RUBY PYTHON SOLIDITY
 
